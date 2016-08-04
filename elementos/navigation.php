@@ -11,8 +11,8 @@
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-        <li><a href="paginas/Pedro"> Pedro</a></li>
-        <li><a href="#">Freddy</a></li>
+        <li><a href="paginas/pedro"> Pedro</a></li>
+        <li><a href="paginas/freddy">Freddy</a></li>
         <li><a href="#">Mandak</a></li>
         <li><a href="#">Aron</a></li>
         <li><a href="#">Francisco</a></li>
