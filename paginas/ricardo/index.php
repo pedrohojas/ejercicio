@@ -4,7 +4,7 @@ include "../../elementos/head.php";
 include "../../elementos/navigation.php";
 
  ?>
- <body style="bgcolor: black;" >
+ <body bgcolor="black" >
 <h1>
 <center><img src="Hipnosapo.gif"></center>
 
