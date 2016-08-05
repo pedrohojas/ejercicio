@@ -14,9 +14,10 @@
         <li><a href="paginas/pedro"> Pedro</a></li>
         <li><a href="paginas/freddy">Freddy</a></li>
         <li><a href="#">Mandak</a></li>
+	<li><a href="paginas/felipe"> Felipe </a></li>
         <li><a href="#">Aron</a></li>
         <li><a href="#">Francisco</a></li>
-        <li><a href="#">Richi</a></li>
+        <li><a href="/ejercicio/paginas/ricardo">Richi</a></li>
         <li><a href="#">Alex</a></li>
         <li><a href="#">Sergio</a></li>
       </ul>
