@@ -8,6 +8,7 @@
     <div class="starter-template">
       <h1>No es bac&aacute;n . Es una Maravilla t&eacute;cnica</h1>
       <p class="lead">Este es tutorial de Freddy y Pedro.<br>¡Es bacán!.</p>
+      <p class="lead">ACA PASO EL MICHEL</p>
     </div>
   </div>
 </body>
