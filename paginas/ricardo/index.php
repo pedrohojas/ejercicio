@@ -1,6 +1,10 @@
 
+<?php
+include "../../elementos/head.php";
+include "../../elementos/navigation.php";
 
+ ?>
 <h1>
-<img src="Hipnosapo.gif">
+<center><img src="Hipnosapo.gif"></center>
 
 </h1>

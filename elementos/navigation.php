@@ -16,7 +16,7 @@
         <li><a href="#">Mandak</a></li>
         <li><a href="#">Aron</a></li>
         <li><a href="#">Francisco</a></li>
-        <li><a href="#">Richi</a></li>
+        <li><a href="/ejercicio/paginas/ricardo">Richi</a></li>
         <li><a href="#">Alex</a></li>
         <li><a href="#">Sergio</a></li>
       </ul>
